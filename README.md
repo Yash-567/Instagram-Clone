@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React can be boldly called a “learn once – write anywhere” library, since in both web and mobile application development it follows the same design patterns, facilitating the transition process. Using plain JavaScript and React you'll be able to build rich UI for native apps, supported by both iOS and Android platforms.
+
 ## Available Scripts
 
 In the project directory, you can run:
